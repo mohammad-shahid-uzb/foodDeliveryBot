@@ -1,0 +1,10 @@
+{
+    "default": "es",
+    "greeting": "¡Bienvenido a nuestro servicio de entrega de comida!",
+    "menu": {
+      "1": "Pizza",
+      "2": "Hamburguesa",
+      "3": "Pasta"
+    }
+  }
+  
